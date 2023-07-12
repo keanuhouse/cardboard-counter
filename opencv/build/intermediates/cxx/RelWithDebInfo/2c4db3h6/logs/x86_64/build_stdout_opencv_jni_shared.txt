@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\aries\Desktop\MyApplication222\opencv\.cxx\RelWithDebInfo\2c4db3h6\x86_64'
+ninja: no work to do.

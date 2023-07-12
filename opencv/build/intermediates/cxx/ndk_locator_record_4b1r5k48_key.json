@@ -1,0 +1,10 @@
+{
+  "ndkDirProperty": "D:\\androidSDK\\ndk\\21.1.6352462",
+  "sdkFolder": "D:\\androidSDK",
+  "sideBySideNdkFolderNames": [
+    "21.1.6352462",
+    "23.1.7779620",
+    "25.1.8937393",
+    "25.2.9519653"
+  ]
+}

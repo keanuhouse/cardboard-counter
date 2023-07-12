@@ -1,0 +1,7 @@
+ninja: Entering directory `C:\Users\aries\Desktop\MyApplication222\opencv\.cxx\Debug\5e1p6t2a\x86'
+[1/2] Building CXX object CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o
+C:/Users/aries/Desktop/MyApplication222/opencv/libcxx_helper/dummy.cpp:10:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+1 warning generated.
+[2/2] Linking CXX static library libopencv_jni_shared.a
